@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "name": "長劍",
+    "rarity": 1,
+    "addType": "Power",
+    "addValue": 1,
+    "buy": 10,
+    "sell": 9,
+    "equipType": "Weapon",
+    "description": "一把力量+{0}的長劍"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "name": "法杖",
+    "rarity": 1,
+    "addType": "Intelligence",
+    "addValue": 1,
+    "buy": 10,
+    "sell": 9,
+    "equipType": "Weapon",
+    "description": "一把智力+{0}的法杖"
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "name": "長劍",
+    "rarity": 2,
+    "addType": "Power",
+    "addValue": 2,
+    "buy": 15,
+    "sell": 14,
+    "equipType": "Weapon",
+    "description": "一把力量+{0}的長劍"
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "name": "法杖",
+    "rarity": 2,
+    "addType": "Intelligence",
+    "addValue": 2,
+    "buy": 15,
+    "sell": 14,
+    "equipType": "Weapon",
+    "description": "一把智力+{0}的法杖"
+  },
+  {
+    "id": 5,
+    "level": 3,
+    "name": "長劍",
+    "rarity": 3,
+    "addType": "Power",
+    "addValue": 3,
+    "buy": 20,
+    "sell": 18,
+    "equipType": "Weapon",
+    "description": "一把力量+{0}的長劍"
+  },
+  {
+    "id": 6,
+    "level": 3,
+    "name": "法杖",
+    "rarity": 3,
+    "addType": "Intelligence",
+    "addValue": 3,
+    "buy": 20,
+    "sell": 18,
+    "equipType": "Weapon",
+    "description": "一把智力+{0}的法杖"
+  },
+  {
+    "id": 7,
+    "level": 4,
+    "name": "長劍",
+    "rarity": 4,
+    "addType": "Power",
+    "addValue": 4,
+    "buy": 25,
+    "sell": 23,
+    "equipType": "Weapon",
+    "description": "一把力量+{0}的長劍"
+  },
+  {
+    "id": 8,
+    "level": 4,
+    "name": "法杖",
+    "rarity": 4,
+    "addType": "Intelligence",
+    "addValue": 4,
+    "buy": 25,
+    "sell": 23,
+    "equipType": "Weapon",
+    "description": "一把智力+{0}的法杖"
+  },
+  {
+    "id": 9,
+    "level": 5,
+    "name": "長劍",
+    "rarity": 5,
+    "addType": "Power",
+    "addValue": 5,
+    "buy": 30,
+    "sell": 27,
+    "equipType": "Weapon",
+    "description": "一把力量+{0}的長劍"
+  },
+  {
+    "id": 10,
+    "level": 5,
+    "name": "法杖",
+    "rarity": 5,
+    "addType": "Intelligence",
+    "addValue": 5,
+    "buy": 30,
+    "sell": 27,
+    "equipType": "Weapon",
+    "description": "一把智力+{0}的法杖"
+  }
+]

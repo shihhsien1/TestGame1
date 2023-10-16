@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 930421594
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dice
+      Dependencies: {}

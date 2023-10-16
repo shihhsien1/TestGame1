@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "命運卡",
+    "level": 1,
+    "conditionType": [
+      4
+    ],
+    "conditionValue": [
+      8
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 1,
+    "failStatusType": "HitPoint",
+    "failValue": -2,
+    "Exp": 20,
+    "selectionDescription": [
+      "使用幸運{0}以上"
+    ],
+    "description": "你在一個神祕的洞窟裡，發現了一把插在地上的劍",
+    "successDescription": [
+      "很幸運地，你成功獲得這把劍，因為土質鬆軟，可見要拔出來並不是件難事。"
+    ],
+    "failDescription": [
+      "很不幸地，你拔不出這把劍，它被很牢固的插在地上，你因為用力過度摔了一跤，並損失了{0}點生命。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "命運卡",
+    "level": 1,
+    "conditionType": [
+      2
+    ],
+    "conditionValue": [
+      8
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 2,
+    "failStatusType": "HitPoint",
+    "failValue": -2,
+    "Exp": 20,
+    "selectionDescription": [
+      "使用智力{0}以上"
+    ],
+    "description": "你路過了一座神秘的祭壇，祭壇上放置了一把法杖。",
+    "successDescription": [
+      "你很機智地看破祭壇上的機關，成功獲得法杖。"
+    ],
+    "failDescription": [
+      "由於你魯莽隨意觸碰，並啟動了祭壇防禦機制，導致你受到了{0}點傷害。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "命運卡",
+    "level": 2,
+    "conditionType": [
+      4
+    ],
+    "conditionValue": [
+      10
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 3,
+    "failStatusType": "HitPoint",
+    "failValue": -3,
+    "Exp": 25,
+    "selectionDescription": [
+      "使用幸運{0}以上"
+    ],
+    "description": "你在一個神祕的洞窟裡，發現了一把插在地上的劍",
+    "successDescription": [
+      "很幸運地，你成功獲得這把劍，因為土質鬆軟，可見要拔出來並不是件難事。"
+    ],
+    "failDescription": [
+      "很不幸地，你拔不出這把劍，它被很牢固的插在地上，你因為用力過度摔了一跤，並損失了{0}點生命。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "命運卡",
+    "level": 2,
+    "conditionType": [
+      2
+    ],
+    "conditionValue": [
+      10
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 4,
+    "failStatusType": "HitPoint",
+    "failValue": -3,
+    "Exp": 25,
+    "selectionDescription": [
+      "使用智力{0}以上"
+    ],
+    "description": "你路過了一座神秘的祭壇，祭壇上放置了一把法杖。",
+    "successDescription": [
+      "你很機智地看破祭壇上的機關，成功獲得法杖。"
+    ],
+    "failDescription": [
+      "由於你魯莽隨意觸碰，並啟動了祭壇防禦機制，導致你受到了{0}點傷害。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "命運卡",
+    "level": 3,
+    "conditionType": [
+      4
+    ],
+    "conditionValue": [
+      12
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 5,
+    "failStatusType": "HitPoint",
+    "failValue": -4,
+    "Exp": 30,
+    "selectionDescription": [
+      "使用幸運{0}以上"
+    ],
+    "description": "你在一個神祕的洞窟裡，發現了一把插在地上的劍",
+    "successDescription": [
+      "很幸運地，你成功獲得這把劍，因為土質鬆軟，可見要拔出來並不是件難事。"
+    ],
+    "failDescription": [
+      "很不幸地，你拔不出這把劍，它被很牢固的插在地上，你因為用力過度摔了一跤，並損失了{0}點生命。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "命運卡",
+    "level": 3,
+    "conditionType": [
+      2
+    ],
+    "conditionValue": [
+      12
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 6,
+    "failStatusType": "HitPoint",
+    "failValue": -4,
+    "Exp": 30,
+    "selectionDescription": [
+      "使用智力{0}以上"
+    ],
+    "description": "你路過了一座神秘的祭壇，祭壇上放置了一把法杖。",
+    "successDescription": [
+      "你很機智地看破祭壇上的機關，成功獲得法杖。"
+    ],
+    "failDescription": [
+      "由於你魯莽隨意觸碰，並啟動了祭壇防禦機制，導致你受到了{0}點傷害。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "命運卡",
+    "level": 4,
+    "conditionType": [
+      4
+    ],
+    "conditionValue": [
+      14
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 7,
+    "failStatusType": "HitPoint",
+    "failValue": -5,
+    "Exp": 35,
+    "selectionDescription": [
+      "使用幸運{0}以上"
+    ],
+    "description": "你在一個神祕的洞窟裡，發現了一把插在地上的劍",
+    "successDescription": [
+      "很幸運地，你成功獲得這把劍，因為土質鬆軟，可見要拔出來並不是件難事。"
+    ],
+    "failDescription": [
+      "很不幸地，你拔不出這把劍，它被很牢固的插在地上，你因為用力過度摔了一跤，並損失了{0}點生命。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "命運卡",
+    "level": 4,
+    "conditionType": [
+      2
+    ],
+    "conditionValue": [
+      14
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 8,
+    "failStatusType": "HitPoint",
+    "failValue": -5,
+    "Exp": 35,
+    "selectionDescription": [
+      "使用智力{0}以上"
+    ],
+    "description": "你路過了一座神秘的祭壇，祭壇上放置了一把法杖。",
+    "successDescription": [
+      "你很機智地看破祭壇上的機關，成功獲得法杖。"
+    ],
+    "failDescription": [
+      "由於你魯莽隨意觸碰，並啟動了祭壇防禦機制，導致你受到了{0}點傷害。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "命運卡",
+    "level": 5,
+    "conditionType": [
+      4
+    ],
+    "conditionValue": [
+      16
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 9,
+    "failStatusType": "HitPoint",
+    "failValue": -6,
+    "Exp": 40,
+    "selectionDescription": [
+      "使用幸運{0}以上"
+    ],
+    "description": "你在一個神祕的洞窟裡，發現了一把插在地上的劍",
+    "successDescription": [
+      "很幸運地，你成功獲得這把劍，因為土質鬆軟，可見要拔出來並不是件難事。"
+    ],
+    "failDescription": [
+      "很不幸地，你拔不出這把劍，它被很牢固的插在地上，你因為用力過度摔了一跤，並損失了{0}點生命。"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "命運卡",
+    "level": 5,
+    "conditionType": [
+      2
+    ],
+    "conditionValue": [
+      16
+    ],
+    "isRarity": "TRUE",
+    "successItemId": 10,
+    "failStatusType": "HitPoint",
+    "failValue": -6,
+    "Exp": 40,
+    "selectionDescription": [
+      "使用智力{0}以上"
+    ],
+    "description": "你路過了一座神秘的祭壇，祭壇上放置了一把法杖。",
+    "successDescription": [
+      "你很機智地看破祭壇上的機關，成功獲得法杖。"
+    ],
+    "failDescription": [
+      "由於你魯莽隨意觸碰，並啟動了祭壇防禦機制，導致你受到了{0}點傷害。"
+    ]
+  }
+]

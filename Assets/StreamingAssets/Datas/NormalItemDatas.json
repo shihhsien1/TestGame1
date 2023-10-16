@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "name": "紅水",
+    "addType": "HitPoint",
+    "addValue": 5,
+    "buy": 2,
+    "sell": 1,
+    "description": "一罐回復HP5的紅色藥水"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "name": "高級紅水",
+    "addType": "HitPoint",
+    "addValue": 10,
+    "buy": 4,
+    "sell": 3,
+    "description": "一罐回復HP10的高級紅色藥水"
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "name": "紅水",
+    "addType": "HitPoint",
+    "addValue": 7,
+    "buy": 3,
+    "sell": 2,
+    "description": "一罐回復HP7的紅色藥水"
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "name": "高級紅水",
+    "addType": "HitPoint",
+    "addValue": 14,
+    "buy": 6,
+    "sell": 4,
+    "description": "一罐回復HP14的高級紅色藥水"
+  },
+  {
+    "id": 5,
+    "level": 3,
+    "name": "紅水",
+    "addType": "HitPoint",
+    "addValue": 9,
+    "buy": 4,
+    "sell": 3,
+    "description": "一罐回復HP9的紅色藥水"
+  },
+  {
+    "id": 6,
+    "level": 3,
+    "name": "高級紅水",
+    "addType": "HitPoint",
+    "addValue": 18,
+    "buy": 8,
+    "sell": 5,
+    "description": "一罐回復HP18的高級紅色藥水"
+  },
+  {
+    "id": 7,
+    "level": 4,
+    "name": "紅水",
+    "addType": "HitPoint",
+    "addValue": 11,
+    "buy": 5,
+    "sell": 4,
+    "description": "一罐回復HP11的紅色藥水"
+  },
+  {
+    "id": 8,
+    "level": 4,
+    "name": "高級紅水",
+    "addType": "HitPoint",
+    "addValue": 22,
+    "buy": 10,
+    "sell": 6,
+    "description": "一罐回復HP22的高級紅色藥水"
+  },
+  {
+    "id": 9,
+    "level": 5,
+    "name": "紅水",
+    "addType": "HitPoint",
+    "addValue": 13,
+    "buy": 6,
+    "sell": 5,
+    "description": "一罐回復HP13的紅色藥水"
+  },
+  {
+    "id": 10,
+    "level": 5,
+    "name": "高級紅水",
+    "addType": "HitPoint",
+    "addValue": 26,
+    "buy": 12,
+    "sell": 7,
+    "description": "一罐回復HP26的高級紅色藥水"
+  }
+]
